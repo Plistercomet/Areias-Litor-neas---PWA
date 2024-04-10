@@ -1,0 +1,50 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "areiaslitoraneas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "areiaslitoraneas",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/onda.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "AppImages/windows11/SmallTile.scale-100.png",
+      "sizes": "71x71"
+    },
+    {
+      "src": "AppImages/windows11/SmallTile.scale-125.png",
+      "sizes": "89x89"
+    },
+    {
+      "src": "AppImages/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "AppImages/android/android-launchericon-192-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "AppImages/ios/16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "AppImages/ios/20.png",
+      "sizes": "20x20"
+    }
+  ],
+  "description": "Blog",
+  "lang": "pt",
+  "categories": [
+    "education",
+    "entertainment",
+    "lifestyle",
+    "navigation"
+  ]
+}
